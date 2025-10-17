@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome on Púc Blog</title>
-    <link>http://example.org/tags/welcome/</link>
-    <description>Recent content in Welcome on Púc Blog</description>
+    <title>Welcome on  Quan is Blog </title>
+    <link>http://localhost:1313/tags/welcome/</link>
+    <description>Recent content in Welcome on  Quan is Blog </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Oct 2025 20:16:49 +0700</lastBuildDate>
-    <atom:link href="http://example.org/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Xin chào mọi người!</title>
-      <link>http://example.org/posts/hello-world/</link>
+      <title>Hi mọi người </title>
+      <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Fri, 17 Oct 2025 20:16:49 +0700</pubDate>
-      <guid>http://example.org/posts/hello-world/</guid>
-      <description>&lt;p&gt;Chào mừng bạn đến với blog của mình! Đây là bài viết đầu tiên, giới thiệu ngắn về mục tiêu chia sẻ các kiến thức về Java và JavaScript bằng tiếng Việt.&lt;/p&gt;&#xA;&lt;p&gt;Trong các bài tiếp theo mình sẽ viết về các khái niệm, ví dụ, và dự án nhỏ kèm mã nguồn.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Tác giả: Nguyễn Hoàng Phúc&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;Chào mừng bạn đã ghé thăm blog của mình! 🎉&lt;/p&gt;&#xA;&lt;p&gt;Đây là bài viết đầu tiên, đánh dấu hành trình mình bắt đầu chia sẻ kiến thức và kinh nghiệm học lập trình – đặc biệt là về Java và JavaScript, hai ngôn ngữ mình đang học và nghiên cứu sâu. Mình tin rằng việc ghi chép và chia sẻ lại quá trình học không chỉ giúp bản thân củng cố kiến thức mà còn có thể hỗ trợ những bạn khác đang đi trên cùng con đường.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
