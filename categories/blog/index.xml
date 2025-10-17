@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on  Quan is Blog </title>
-    <link>http://localhost:1313/categories/blog/</link>
+    <link>http://example.org/categories/blog/</link>
     <description>Recent content in Blog on  Quan is Blog </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Oct 2025 20:16:49 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://example.org/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hi mọi người </title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>http://example.org/posts/hello-world/</link>
       <pubDate>Fri, 17 Oct 2025 20:16:49 +0700</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>http://example.org/posts/hello-world/</guid>
       <description>&lt;p&gt;Chào mừng bạn đã ghé thăm blog của mình! 🎉&lt;/p&gt;&#xA;&lt;p&gt;Đây là bài viết đầu tiên, đánh dấu hành trình mình bắt đầu chia sẻ kiến thức và kinh nghiệm học lập trình – đặc biệt là về Java và JavaScript, hai ngôn ngữ mình đang học và nghiên cứu sâu. Mình tin rằng việc ghi chép và chia sẻ lại quá trình học không chỉ giúp bản thân củng cố kiến thức mà còn có thể hỗ trợ những bạn khác đang đi trên cùng con đường.&lt;/p&gt;</description>
     </item>
   </channel>

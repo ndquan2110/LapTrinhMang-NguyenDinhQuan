@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> Quan is Blog </title>
-    <link>http://localhost:1313/</link>
+    <link>http://example.org/</link>
     <description>Recent content on  Quan is Blog </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Oct 2025 20:16:49 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hi mọi người </title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>http://example.org/posts/hello-world/</link>
       <pubDate>Fri, 17 Oct 2025 20:16:49 +0700</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>http://example.org/posts/hello-world/</guid>
       <description>&lt;p&gt;Chào mừng bạn đã ghé thăm blog của mình! 🎉&lt;/p&gt;&#xA;&lt;p&gt;Đây là bài viết đầu tiên, đánh dấu hành trình mình bắt đầu chia sẻ kiến thức và kinh nghiệm học lập trình – đặc biệt là về Java và JavaScript, hai ngôn ngữ mình đang học và nghiên cứu sâu. Mình tin rằng việc ghi chép và chia sẻ lại quá trình học không chỉ giúp bản thân củng cố kiến thức mà còn có thể hỗ trợ những bạn khác đang đi trên cùng con đường.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript: Xử lý sự kiện và tạo tương tác đơn giản</title>
-      <link>http://localhost:1313/posts/js-4/</link>
+      <link>http://example.org/posts/js-4/</link>
       <pubDate>Fri, 17 Oct 2025 10:30:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/js-4/</guid>
+      <guid>http://example.org/posts/js-4/</guid>
       <description>&lt;p&gt;Ví dụ tạo form đơn giản, bắt sự kiện submit, validate và hiển thị thông báo. Mục tiêu là làm tương tác trên trang tĩnh.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript: Promise và Async/Await</title>
-      <link>http://localhost:1313/posts/js-3/</link>
+      <link>http://example.org/posts/js-3/</link>
       <pubDate>Fri, 17 Oct 2025 10:20:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/js-3/</guid>
+      <guid>http://example.org/posts/js-3/</guid>
       <description>&lt;p&gt;Hướng dẫn Promise, chain, và sử dụng async/await để xử lý bất đồng bộ. Ví dụ fetch API giả lập.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript: Hàm, closure và scope</title>
-      <link>http://localhost:1313/posts/js-2/</link>
+      <link>http://example.org/posts/js-2/</link>
       <pubDate>Fri, 17 Oct 2025 10:10:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/js-2/</guid>
+      <guid>http://example.org/posts/js-2/</guid>
       <description>&lt;p&gt;Giải thích hàm, biến cục bộ và toàn cục, hoisting, và closure với ví dụ thực tế.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JavaScript: Tổng quan và cách thêm script vào trang web</title>
-      <link>http://localhost:1313/posts/js-1/</link>
+      <link>http://example.org/posts/js-1/</link>
       <pubDate>Fri, 17 Oct 2025 10:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/js-1/</guid>
+      <guid>http://example.org/posts/js-1/</guid>
       <description>&lt;p&gt;Giới thiệu JavaScript, cách nhúng script trong HTML, và thao tác DOM cơ bản (getElementById, querySelector, addEventListener).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Java: Làm việc với file và I/O</title>
-      <link>http://localhost:1313/posts/java-5/</link>
+      <link>http://example.org/posts/java-5/</link>
       <pubDate>Fri, 17 Oct 2025 09:40:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/java-5/</guid>
+      <guid>http://example.org/posts/java-5/</guid>
       <description>&lt;p&gt;Ví dụ đọc/ghi file bằng java.nio.file.Files và BufferedReader/BufferedWriter. Lưu ý về encoding và xử lý tài nguyên (try-with-resources).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Java: Xử lý ngoại lệ và logging</title>
-      <link>http://localhost:1313/posts/java-4/</link>
+      <link>http://example.org/posts/java-4/</link>
       <pubDate>Fri, 17 Oct 2025 09:30:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/java-4/</guid>
+      <guid>http://example.org/posts/java-4/</guid>
       <description>&lt;p&gt;Hướng dẫn sử dụng try-catch-finally, tạo ngoại lệ tùy chỉnh, và thiết lập logging đơn giản bằng java.util.logging hoặc SLF4J.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Java: Kế thừa và đa hình</title>
-      <link>http://localhost:1313/posts/java-3/</link>
+      <link>http://example.org/posts/java-3/</link>
       <pubDate>Fri, 17 Oct 2025 09:20:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/java-3/</guid>
+      <guid>http://example.org/posts/java-3/</guid>
       <description>&lt;p&gt;Giải thích kế thừa (extends), sử dụng abstract class và interface, cùng ví dụ minh họa đa hình trong Java.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Java: Lập trình hướng đối tượng - Lớp và đối tượng</title>
-      <link>http://localhost:1313/posts/java-2/</link>
+      <link>http://example.org/posts/java-2/</link>
       <pubDate>Fri, 17 Oct 2025 09:10:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/java-2/</guid>
+      <guid>http://example.org/posts/java-2/</guid>
       <description>&lt;p&gt;Trình bày các khái niệm lớp, đối tượng, thuộc tính và phương thức trong Java. Ví dụ định nghĩa lớp Person và cách khởi tạo đối tượng.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Java: Kiến thức cơ bản và môi trường phát triển</title>
-      <link>http://localhost:1313/posts/java-1/</link>
+      <link>http://example.org/posts/java-1/</link>
       <pubDate>Fri, 17 Oct 2025 09:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/java-1/</guid>
+      <guid>http://example.org/posts/java-1/</guid>
       <description>&lt;p&gt;Bài viết này giới thiệu môi trường phát triển Java (JDK, IDE), cấu trúc một chương trình Java đơn giản, và cách biên dịch/chạy từ dòng lệnh.&lt;/p&gt;&#xA;&lt;p&gt;Ví dụ: một lớp HelloWorld với phương thức main.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Giới thiệu</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://example.org/about/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://example.org/about/</guid>
       <description>&lt;h1 id=&#34;xin-chào-mình-là-nguyễn-đình-quân-&#34;&gt;Xin chào, mình là &lt;strong&gt;Nguyễn Đình Quân&lt;/strong&gt; 👋&lt;/h1&gt;&#xA;&lt;p&gt;Mình hiện đang theo học và nghiên cứu về lập trình mạng, với niềm yêu thích đặc biệt dành cho Java và JavaScript.&#xA;Blog này được xây dựng bằng Hugo – một Static Site Generator mạnh mẽ và linh hoạt.&#xA;Tại đây, mình chia sẻ những kinh nghiệm, kiến thức và khám phá trong quá trình học lập trình – hy vọng có thể mang lại giá trị cho những ai cùng đam mê công nghệ.&lt;/p&gt;</description>
     </item>
   </channel>
